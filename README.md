@@ -1,102 +1,38 @@
-# Christian Lawrence
+<h1 align="center">Christian Lawrence</h1>
+<h3 align="center">Strategic HR | People Analytics | Responsible AI in Hiring</h3>
 
-**Strategic HR | People Analytics | Responsible AI in Hiring**
-
-Graduate researcher in **Human Resource Management** exploring how organizations can design fair, effective, and data-driven people systems.
-
-My work focuses on the intersection of:
-
-* HR strategy
-* workforce analytics
-* evidence-based hiring systems
-* responsible AI governance in recruitment technologies
-
----
-
-## Current Focus
-
-* Designing **evidence-based hiring systems** that improve predictive validity and fairness
-* Exploring **AI governance frameworks** for hiring technologies
-* Applying **strategic management frameworks** to human capital challenges
-* Translating HR research into **practical organizational solutions**
+<p align="center">
+Exploring the intersection of human capital strategy, data analytics, and responsible AI in modern HR systems.
+</p>
 
 ---
 
 ## Featured Projects
 
-### HR Strategy Portfolio
-
-Strategic HR consulting and research projects developed during graduate study.
-
-Repository:
-`hr-strategy-portfolio`
-
-Projects include:
-
-* Compensation system design using point-factor job evaluation and regression analysis
-* Evidence-based hiring framework using BARS and work-sample testing
-* Organizational training program design with ROI evaluation
-* Strategic corporate analysis using VRIN and CAGE frameworks
+| Project | Description |
+|-------|-------------|
+| **HR Strategy Portfolio** | Strategic HR consulting projects from graduate study including compensation design, hiring frameworks, and organizational development. |
+| **Contextual Relevance Scoring (CRS)** | Conceptual framework for explainable AI scoring of candidate-job alignment. |
+| **AI Governance in Hiring** | Research exploring legal and ethical implications of AI hiring systems under ADA and Title VII. |
+| **Evidence-Based Hiring Framework** | Structured hiring system using BARS, work-sample testing, and predictive validity principles. |
+| **Compensation System Design** | Point-factor job evaluation and regression analysis for market-aligned pay structures. |
 
 ---
 
-### Contextual Relevance Scoring (CRS)
+## Skills & Areas of Focus
 
-Conceptual framework for evaluating candidate-job alignment using explainable AI scoring methods that prioritize:
-
-* fairness
-* transparency
-* legal defensibility
-
----
-
-### AI Governance in Hiring
-
-Research exploring the legal and ethical implications of AI-driven hiring systems, including compliance considerations under:
-
-* Americans with Disabilities Act (ADA)
-* Title VII of the Civil Rights Act
-* disparate impact doctrine
+![HR Strategy](https://img.shields.io/badge/HR-Strategy-blue)
+![People Analytics](https://img.shields.io/badge/People-Analytics-green)
+![Compensation](https://img.shields.io/badge/Compensation-Design-orange)
+![Talent Systems](https://img.shields.io/badge/Talent-Systems-purple)
+![AI Governance](https://img.shields.io/badge/AI-Governance-red)
+![Employment Law](https://img.shields.io/badge/Employment-Law-yellow)
 
 ---
 
-## Skills & Areas of Interest
+## Research Interests
 
-**HR Strategy**
-
-* workforce strategy
-* organizational design
-* strategic management frameworks
-
-**People Analytics**
-
-* regression analysis
-* workforce metrics
-* data-driven HR decision making
-
-**Talent Systems Design**
-
-* BARS interview systems
-* work-sample testing
-* structured hiring frameworks
-
-**AI Governance**
-
-* algorithmic bias mitigation
-* responsible AI frameworks
-* AI risk analysis in hiring systems
-
----
-
-## About Me
-
-I am interested in how organizations can move beyond traditional HR administration and toward **strategic, data-driven human capital leadership**.
-
-My work explores how HR leaders can combine **analytics, strategy, and responsible technology adoption** to build stronger organizations.
-
----
-
-## Connect
-
-LinkedIn: linkedin.com/in/lawrence-christian
-Portfolio: sites.google.com/view/christianlawrence-hr
+- Responsible AI in hiring systems
+- Evidence-based talent acquisition
+- HR analytics and workforce data modeling
+- Organizational strategy and human capital alignment
